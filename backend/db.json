@@ -1,0 +1,52 @@
+{
+	"vans": [
+		{
+			"id": "1",
+			"name": "Modest Explorer",
+			"description": "The Modest Explorer is a van designed to get you out of the house and into ature This beauty is equipped with solar panels a composting toilet a water tank and kitchenette. The idea is that you can pack up your home and escape for a weekend or even longer!",
+			"type": "Simple",
+			"price": "60",
+			"image": "https://assets.scrimba.com/advanced-react/react-router/modest-explorer.png"
+		},
+		{
+			"id": "2",
+			"name": "Beach Bum",
+			"description": "Beach Bum is a van inspired by surfers and travelers. It was created to be a portable home away from home, but with some cool features in it you won t find in an ordinary camper.",
+			"type": "Rugged",
+			"price": "80",
+			"image": "https://assets.scrimba.com/advanced-react/react-router/beach-bum.png"
+		},
+		{
+			"id": "3",
+			"name": "Relable Red",
+			"description": "Relable Red is a van designed to get you out of the house and into ature This beauty is equipped with solar panels a composting toilet a water tank and kitchenette. The idea is that you can pack up your home and escape for a weekend or even longer!",
+			"type": "Luxury",
+			"price": "100",
+			"image": "https://assets.scrimba.com/advanced-react/react-router/reliable-red.png"
+		},
+		{
+			"id": "4",
+			"name": "Dreamfinder",
+			"description": "Dreamfinder is the perfect van to travel in and experience. With a ceiling height of 2.1m, you can stand up in this van and there is great head room. The floor is a beautiful glass reinforced plastic (GRP) which is easy to clean and very hard wearing. A large rear window and large side windows make it really light inside and keep it well ventilated.",
+			"type": "sample",
+			"price": "65",
+			"image": "https://assets.scrimba.com/advanced-react/react-router/dreamfinder.png"
+		},
+		{
+			"id": "5",
+			"name": "The Cruiser",
+			"description": "The Cruiser is a van for those who love to travel incomfort and luxury. With its many windows, spacious interior and ample storage space, the Cruiser offers a beautiful view wherever you go.",
+			"type": "Luxury",
+			"price": "120",
+			"image": "https://assets.scrimba.com/advanced-react/react-router/the-cruiser.png"
+		},
+		{
+			"id": "6",
+			"name": "Green Wonder",
+			"description": "The Green Wonder is a van designed to get you out of the house and into ature This beauty is equipped with solar panels a composting toilet a water tank and kitchenette. The idea is that you can pack up your home and escape for a weekend or even longer!",
+			"type": "Rugged",
+			"price": "70",
+			"image": "https://assets.scrimba.com/advanced-react/react-router/green-wonder.png"
+		}
+	]
+}
